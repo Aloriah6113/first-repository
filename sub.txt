@@ -1,0 +1,2 @@
+print("sub")
+print("빼기")
