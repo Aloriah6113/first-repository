@@ -1,2 +1,1 @@
-print("add")
 print("더하기")
